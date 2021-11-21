@@ -23,6 +23,9 @@ If players choose the same weapon, neither win and the game is played again
 
 ## What
 -This project idea is to play with computer.
+
+## Where
+-This project idea is available both on VSC and Github.
  
  ## Why
  -this project uses simple function it is very compact to work.
