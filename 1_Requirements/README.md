@@ -10,13 +10,15 @@ Essentially, it sets up an unbreakable loop where every entry defeats another, a
 Rock beats Scissors.
 Scissors beats Paper.
 Paper beats Rock.
-
 If players choose the same weapon, neither win and the game is played again
 
 # SWOT Analysis
+
+![132314075-9d5d147b-6ebf-423d-bda4-03099ab72553](https://user-images.githubusercontent.com/94245015/142765769-15ec93c5-a8d5-4c18-a9d9-f73d3fb22777.png)
 ![swot](https://user-images.githubusercontent.com/85788583/132537528-03422646-a512-4804-9471-68d5ccb5d3db.jpg)
 
 # 4W and 1H
+
 
 ## Who
 -One can be used as a fun game it can be upgraded to have more features.
