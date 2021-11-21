@@ -1,33 +1,41 @@
-INTRODUCTION
-* The game of Rock-Paper-Scissors (RPS) involves two players simultaneously choosing either rock (r), paper (p), or scissors (s). Informally, the rules of the game are that “rock beats scissors, paper beats rock, and scissors beats paper”. If two players choose the same item then the round is a tie.
+## Introduction
 
-OBJECTIVE
-* The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a weapon that defeats their choice under the following rules:
+This game have three categories one is rock(R), paper(P) and scissor(S). One choice is taken by the player and another is taken by the system such that the different choices and one with more powerful choice wins and if selected equal choice draw. Below mentioned are the 
 
-* Rock smashes (or blunts) Scissors, so Rock wins
+## Objective 
+Rock-Paper-Scissors (referred to in different orders depending on region) is the most basic idea of the concept of attributable strength and weakness.
 
-* Scissors cut Paper, so Scissors win
+Essentially, it sets up an unbreakable loop where every entry defeats another, and is in turn defeated by yet another.
 
-* Paper covers Rock, so Paper wins
+Rock beats Scissors.
+Scissors beats Paper.
+Paper beats Rock.
 
-* If players choose the same weapon, neither win and the game is played again
+If players choose the same weapon, neither win and the game is played again
 
-SWOT Analysis
+# SWOT Analysis
+![swot](https://user-images.githubusercontent.com/85788583/132537528-03422646-a512-4804-9471-68d5ccb5d3db.jpg)
 
-* STRENGTH : Mental preparation helps you with focus, consciousness, concentration, and control of your mind.
-* WEAKNESS : It has minimum number of players.
-* OPPORTUNITIES : Playing this game that encourages fast thinking and control of your mind.
-* THREATS : Obstacles
-* 4W's and 1H
-* WHY: It will be my first own made game.
-* WHERE: GITHUB, VSC
-* WHAT: This project idea is to play with computer.
-* WHEN: The project is used when the people look for stress relief.
+# 4W and 1H
 
-High Level Requirements:
-* This project can be implemented by using c language in both windows and linux os.
-* This project requires a random number generator function.
+## Who
+-One can be used as a fun game it can be upgraded to have more features.
 
-Low Level Requirements:
-* The Random number has to generate the numbers with in the specified range of number.
-* The comparision of the character from the player input and the computer generated has to be taken care.
+## What
+-This project idea is to play with computer.
+ 
+ ## Why
+ -this project uses simple function it is very compact to work.
+ 
+ ## How
+ -By implementing mutilevel program it can be achived
+ -this project requires a lost cost of development.
+ 
+ ##Detail requirements
+   
+   ## High Level Requirements:
+      This project can be implemented by using c language in both windows and linux os.   
+      This project requires a random integer generator function.                           
+   ## Low level Requirements:
+      The Random number has to generate the numbers with in the specified range of number.
+      The comparasion of the character from the player input and the computer generated has to be taken care.
