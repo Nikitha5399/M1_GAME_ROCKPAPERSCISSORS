@@ -18,7 +18,7 @@ SWOT Analysis
 * WEAKNESS : It has minimum number of players.
 * OPPORTUNITIES : Playing this game that encourages fast thinking and control of your mind.
 * THREATS : Obstacles
-4W's and 1H
+* 4W's and 1H
 * WHY: It will be my first own made game.
 * WHERE: GITHUB, VSC
 * WHAT: This project idea is to play with computer.
