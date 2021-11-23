@@ -36,7 +36,7 @@ If players choose the same weapon, neither win and the game is played again
  -By implementing mutilevel program it can be achived
  -this project requires a lost cost of development.
  
- ##Detail requirements
+ 
    
    ## High Level Requirements:
       This project can be implemented by using c language in both windows and linux os.   
