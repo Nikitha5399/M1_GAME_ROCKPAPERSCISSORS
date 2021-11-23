@@ -5,7 +5,7 @@ PROJECT_NAME = RockPaperScissor
 BUILD = build
 
 # All source code files
-SRC = project_main_function.c\
+SRC = project_main.c\
 src/compare.c
 src/randomfile.c
 
@@ -68,7 +68,7 @@ sanitize_check:
 coverage:$(TEST_SRC)
 	gcc -fprofile-arcs -ftest-coverage $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
 	./$(TEST_OUTPUT)
-	gcov -a calculator_operations.c
+	gcov -a RockPaperScissors.c
 
 # Remove all the built files, invoke by `make clean`
 clean:
