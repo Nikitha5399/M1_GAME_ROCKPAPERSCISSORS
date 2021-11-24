@@ -1,5 +1,7 @@
 # M1_App_RockPaperScissors
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a21b962c9d0c48edb86672fad6f5ad92)](https://app.codacy.com/gh/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS?utm_source=github.com&utm_medium=referral&utm_content=Nikitha5399/M1_GAME_ROCKPAPERSCISSORS&utm_campaign=Badge_Grade_Settings)
+
 
 ## Rock Paper Scissors Game
 
