@@ -18,9 +18,13 @@ by a user, and even reset the score. Additionally, to make the game look a littl
 
 ## Requirements
 1 VS code
+
 2 Github as version control
+
 3 GCC in windows as well as linux
+
 4 WSL/Dual boot/VMware
+
 5 Mingw
 
 # SWOT Analysis
