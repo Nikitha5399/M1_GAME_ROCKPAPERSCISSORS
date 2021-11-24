@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "random.c"
+#include "greater.c"
 
 
 int generateRandomNumber(int n);
