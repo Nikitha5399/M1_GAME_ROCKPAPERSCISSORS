@@ -30,6 +30,9 @@ by a user, and even reset the score. Additionally, to make the game look a littl
 # SWOT Analysis
 
 ![132314075-9d5d147b-6ebf-423d-bda4-03099ab72553](https://user-images.githubusercontent.com/94245015/142765769-15ec93c5-a8d5-4c18-a9d9-f73d3fb22777.png)
+
+# State of Art
+
 ![swot](https://user-images.githubusercontent.com/85788583/132537528-03422646-a512-4804-9471-68d5ccb5d3db.jpg)
 
 # 4W and 1H
