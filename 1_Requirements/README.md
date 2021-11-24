@@ -12,7 +12,7 @@ Scissors beats Paper.
 Paper beats Rock.
 If players choose the same weapon, neither win and the game is played again
 
-##Features
+## Features
 In this rockepaperscissors game you can store the username, view the highest score secured 
 by a user, and even reset the score. Additionally, to make the game look a little more interesting, it is divided into rounds; user must pass the first round to reach the second one.
 
