@@ -3,11 +3,11 @@
 ---
 | Build Linux | 
 | :---------: |
-| [![Build_linux](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_linux.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_linux.yml) |
+| [![Build_linux](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Nikitha5399/M1_App_Billing_System/actions/workflows/build_linux.yml) |
 
 | Unit Testing |
 | :----------: |
-| [![Unit_Testing](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/unit_testing.yml) |
+| [![Unit_Testing](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/unit_testing.yml) |
 
 | Cpp Check |
 | :-------: |
