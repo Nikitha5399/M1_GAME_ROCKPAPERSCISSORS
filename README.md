@@ -1,7 +1,15 @@
 # M1_GAME_ROCKPAPERSCISSORS
 
 ---
+| Build Linux | 
+| :---------: |
+| [![Build_linux](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_linux.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_linux.yml) |
 
+| Unit Testing |
+| :----------: |
+| [![Unit_Testing](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/unit_testing.yml) |
+
+| Cpp Check |
 | Codacy                                                                                                                                                                                                | Cpp Check                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a21b962c9d0c48edb86672fad6f5ad92)](https://app.codacy.com/gh/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS?utm_source=github.com&utm_medium=referral&utm_content=Nikitha5399/M1_GAME_ROCKPAPERSCISSORS&utm_campaign=Badge_Grade_Settings) 
