@@ -14,7 +14,7 @@ https://api.codiga.io/project/30024/score/svg
 
 https://api.codiga.io/project/30024/status/svg
 
-## Rpck Paper Scissors Game.
+## Rock Paper Scissors Game.
 
 ---
 
