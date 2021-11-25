@@ -9,10 +9,10 @@
 
 
 
-https://api.codiga.io/project/30024/score/svg 
+![code quality score](https://api.codiga.io/project/30024/score/svg )
 
 
-https://api.codiga.io/project/30024/status/svg
+![code score](https://api.codiga.io/project/30024/status/svg)
 
 ## Rock Paper Scissors Game.
 
