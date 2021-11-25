@@ -1,17 +1,9 @@
 # M1_GAME_ROCKPAPERSCISSORS
 
-
-| Cpp Check |
-| :-------: |
-| [![Static code Cppcheck](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml) |
-
-| Codacy |
-| :-----: |
-| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a21b962c9d0c48edb86672fad6f5ad92)](https://app.codacy.com/gh/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS?utm_source=github.com&utm_medium=referral&utm_content=Nikitha5399/M1_GAME_ROCKPAPERSCISSORS&utm_campaign=Badge_Grade_Settings) |
+| Build Linux | Unit Testing | Cpp Check | Build Windows | Valgrid | Codacy |
+| :---------: | :----------: | :-------: | :-----------: | :-----: | :----: |
+| [![Build_linux](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml) | [![Unit_Testing](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/unit_testing.yml) | [![StaticcodeCppcheck](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml) | [![Build Windows](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_windows.yml) | [![Valgrid](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/Valgrid.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/Valgrid.yml) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a21b962c9d0c48edb86672fad6f5ad92)](https://app.codacy.com/gh/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS?utm_source=github.com&utm_medium=referral&utm_content=Nikitha5399/M1_GAME_ROCKPAPERSCISSORS&utm_campaign=Badge_Grade_Settings) |
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-![code quality score](https://api.codiga.io/project/30024/score/svg )
-
-![code score](https://api.codiga.io/project/30024/status/svg)
 
 ## Rock Paper Scissors Game.
 
