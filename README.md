@@ -1,13 +1,5 @@
 # M1_GAME_ROCKPAPERSCISSORS
 
----
-| Build Linux | 
-| :---------: |
-| [![Build_linux](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml) |
-
-| Unit Testing |
-| :----------: |
-| [![Unit_Testing](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/unit_testing.yml) |
 
 | Cpp Check |
 | :-------: |
